@@ -14,5 +14,6 @@ int main()
   cout << "(a + 2b) (a - 2b) = ";
   cout << (a - b) * (a - b) << endl;
   cout << (a - 2b) * (2a - b) << endl;
+  cout << a / b << endl;
   return EXIT_SUCCESS;
 }
