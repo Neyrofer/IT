@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-
+//программа является учебной
 int main()
 {
   using namespace std;
